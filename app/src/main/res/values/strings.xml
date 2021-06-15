@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Espaco Maria Flor</string>
+    <string-array name="servico">
+        <item>Serviço</item>
+        <item>Mão e Pé</item>
+        <item>Gel</item>
+    </string-array>
+</resources>
